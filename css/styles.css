@@ -1,0 +1,63 @@
+body {
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+button.dropdown-toggle::after {
+  display: none;
+}
+
+.search-btn {
+  background: none;
+}
+
+.account-active {
+  color: royalblue;
+}
+
+.right-nav-icon {
+  font-size: 1.5rem;
+}
+
+.card, .card-footer {
+  border: 0 none;
+}
+
+.login-form {
+  width: 100%;
+  max-width: 600px;
+}
+
+.hero-img {
+  z-index: 0;
+  position: absolute;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
+}
+
+.hero-container {
+  position: relative;
+  height: 500px;
+}
+
+.hero-text {
+  position: relative;
+  z-index: 100;
+  padding-top: 200px;
+}
+
+.img-contain {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.search-drop-menu {
+  width: 200px;
+}
+
+.dropdown-menu {
+  min-width: 20em;
+}
+/*# sourceMappingURL=styles.css.map */
