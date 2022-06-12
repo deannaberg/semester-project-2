@@ -19,9 +19,14 @@ You can add some bullet points if you'd like to:
 You can list a the tech stack that you've used over here
 
 - [React.js](https://reactjs.org/)
-- [Next.js] (https://nextjs.org/docs/api-reference/next/image)
+- [Next.js] (https://nextjs.org)
 - [Bootstrap](https://getbootstrap.com)
+- [react-bootstrap
+- [react-hook-form]
+- 
 - [WP Rest API](https://developer.wordpress.org/rest-api/)
+- [yup]
+- [axios]
 
 ## Getting Started
 
@@ -38,7 +43,13 @@ git clone git@github.com:NoroffFEU/portfolio-1-example.git
 2. Install the dependencies:
 
 ```
-npm install
+npm install next react react-dom
+npm install react-bootstrap bootstrap
+npm install react-hook-form
+npm install yup
+npm install @hookform/resolvers
+npm install moment --save 
+npm install axios
 ```
 
 ### Running
