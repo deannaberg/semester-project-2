@@ -1,6 +1,6 @@
 # Semester Project 2
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](https://user-images.githubusercontent.com/71320357/173251685-0f065aa0-1440-4536-9bf8-8e51a5508ed9.png)
 
 JTB Distributors is an e-commerce website utilizing Strapi as a content management system with customer-facing and admin sections. 
 
