@@ -20,9 +20,9 @@ This website was built with HTML5, Javascript, Bootstrap with Sass, and Strapi.
 - Javascript
 - HTML5
 - [Bootstrap](https://getbootstrap.com)
-- [Sass](https://react-hook-form.com/](https://sass-lang.com/)
-- [Fontawesome](https://momentjs.com/](https://fontawesome.com/)
-- [Strapi](https://developer.wordpress.org/rest-api/](https://strapi.io/)
+- [Sass](https://sass-lang.com/)
+- [Fontawesome](https://fontawesome.com/)
+- [Strapi](https://strapi.io/)
 - [Heroku](https://www.heroku.com/)
 - [Cloudinary](https://cloudinary.com/)
 - [Google Fonts](https://fonts.google.com/)
