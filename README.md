@@ -44,11 +44,23 @@ git clone git@github.com:NoroffFEU/portfolio-1-example.git
 
 ```
 npm install next react react-dom
+```
+```
 npm install react-bootstrap bootstrap
+```
+```
 npm install react-hook-form
+```
+```
 npm install yup
+```
+```
 npm install @hookform/resolvers
+```
+```
 npm install moment --save 
+```
+```
 npm install axios
 ```
 
