@@ -2,68 +2,38 @@
 
 ![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
-A simple next.js application utilizing WP as a content management system with an admin log-in/log-out functionality. 
+JTB Distributors is an e-commerce website utilizing Strapi as a content management system with customer-facing and admin sections. 
 
 ## Description
 
-For this assigment I built a simple application in next.js, that uses a headless WP installation for content and authentication. 
-This assignment required me to 
+This website was built with HTML5, Javascript, Bootstrap with Sass, and Strapi. 
 
-- Return an array of items with 2 properties
-- Link to a detail page for each item and display 3 properties
-- Create a contact form with validation
-- Create an Admin log-in form that makes a log-in request to Wordpress API with a JWT plugin installed.
-- Upon successfully logging-in, user is redirected to a user admin route. 
-- If log-in is unsuccessful, a message is displayed. 
+- The customer-facing side includes home, product list, product detail, and cart pages.
+- The admin section includes a page to update, create, and delete products, and a page to log-in.
+- The website utilizes a Strapi installation for content management and account validation. 
+- The Strapi installation is hosted on Heroku and uses Cloudinary for image hosting. 
+- The Vanilla Javascript code is organized using modules (imports/exports). 
+- The CSS code is organized with Sass classes and folders. 
 
 ## Built With
-- [Next.js](https://nextjs.org)
-- [Bootstrap](https://getbootstrap.com)
-- [React-Bootstrap](https://react-bootstrap.github.io/)
-- [React-Hook-Form](https://react-hook-form.com/)
-- [Moment.js](https://momentjs.com/)
-- [Axios](https://axios-http.com/)
 
-## Getting Started
+- Javascript
+- HTML5
+- [Bootstrap](https://getbootstrap.com)
+- [Sass](https://react-hook-form.com/](https://sass-lang.com/)
+- [Fontawesome](https://momentjs.com/](https://fontawesome.com/)
+- [Strapi](https://developer.wordpress.org/rest-api/](https://strapi.io/)
+- [Heroku](https://www.heroku.com/)
+- [Cloudinary](https://cloudinary.com/)
+- [Google Fonts](https://fonts.google.com/)
+
 
 ### Installing
 
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
-
-2. Install the dependencies:
-
-```
-npm install next react react-dom
-```
-```
-npm install react-bootstrap bootstrap
-```
-```
-npm install react-hook-form
-```
-```
-npm install yup
-```
-```
-npm install @hookform/resolvers
-```
-```
-npm install moment --save 
-```
-```
-npm install axios
-```
-
-### Running
-
-To run the app, run the following commands:
-
-```bash
-npm run start
+git clone git@github.com:deannaberg/semester-project-2.git
 ```
 
 ## Contact
